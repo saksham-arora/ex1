@@ -1,1 +1,3 @@
 # ex1
+hello 
+learning github...
